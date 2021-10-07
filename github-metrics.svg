@@ -1476,7 +1476,7 @@
                                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    489k added, 3.63k removed
+                    585k added, 3.64k removed
                   
                 </div>
                             </section>
@@ -1517,20 +1517,16 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="230.23548760034518" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="230.23548760034518" y="0" width="80.51337664663833" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="310.74886424698354" y="0" width="67.0249621415661" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="377.77382638854965" y="0" width="52.04911012326381" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="429.8229365118134" y="0" width="20.341882011951867" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="450.16481852376523" y="0" width="5.447120316545357" height="8" fill="#244776"/>
-                    <rect mask="url(#languages-bar)" x="455.61193884031064" y="0" width="3.322358458306873" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="458.93429729861754" y="0" width="1.0657027013824436" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="207.38746466801612" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="207.38746466801612" y="0" width="172.6438207779419" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="380.031285445958" y="0" width="52.39689990334993" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="432.42818534930797" y="0" width="14.030767547458833" height="8" fill="#244776"/>
+                    <rect mask="url(#languages-bar)" x="446.4589528967668" y="0" width="8.557776683626019" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="455.01672958039285" y="0" width="2.7450516986706055" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="457.7617812790634" y="0" width="1.3884639932892027" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="459.15024527235266" y="0" width="0.8497547276473914" height="8" fill="#f7523f"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
-                    <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                HTML
-              </div>
                     <div class="field center no-wrap language">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#4F5D95" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                 PHP
@@ -1538,10 +1534,6 @@
                     <div class="field center no-wrap language">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                 JavaScript
-              </div>
-                    <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                CSS
               </div>
                     <div class="field center no-wrap language">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
@@ -1558,6 +1550,14 @@
                     <div class="field center no-wrap language">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#A97BFF" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                 Kotlin
+              </div>
+                    <div class="field center no-wrap language">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                Python
+              </div>
+                    <div class="field center no-wrap language">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#f7523f" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                Blade
               </div>
                 </div>
             </section>
@@ -3243,7 +3243,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 07/10/2021, 23:07 (timezone Africa/Nairobi) with lowlighter/metrics@3.14.0</span>
+                <span>Last updated 08/10/2021, 00:06 (timezone Africa/Nairobi) with lowlighter/metrics@3.14.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
