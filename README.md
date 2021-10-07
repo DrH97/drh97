@@ -30,7 +30,7 @@
 - Loves Music while in the zone and passion juice any day
 
 
-![Metrics](https://raw.githubusercontent.com/drh97/drh97/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/DrH97/drh97/main/github-metrics.svg)
 
 <!--
 **DrH97/drh97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
