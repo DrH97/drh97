@@ -17,7 +17,7 @@
   <a href="https://app.daily.dev/drh">
     <img align="right" 
          src="https://api.daily.dev/devcards/f4f7795bb92c48fa8ea9ccc80aac7fec.png?r=apo" 
-         width="400" alt="Dr H's Dev Card"/>
+         width="350" alt="Dr H's Dev Card"/>
   </a>
 
 </div>
