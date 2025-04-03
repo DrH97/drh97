@@ -2,7 +2,7 @@
 name: Metrics
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "* 3 * * 5"}]
+  schedule: [{cron: "0 3 * * 5"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -31,16 +31,17 @@ jobs:
           plugin_introduction: yes
           plugin_introduction_title: yes
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          plugin_isocalendar_duration: full-year
           plugin_languages: yes
-          plugin_languages_categories: markup, programming
+          plugin_languages_indepth: yes
+          plugin_languages_categories: data, markup, programming
           plugin_languages_colors: github
           plugin_languages_ignored: html,css,coffeescript,blade,hack,shell,java
           plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
-          plugin_languages_sections: most-used
+          plugin_languages_recent_days: 21
+          plugin_languages_recent_load: 400
+          plugin_languages_sections: recently-used
           plugin_languages_threshold: 0%
           plugin_lines: yes
           plugin_notable: yes
@@ -49,5 +50,5 @@ jobs:
           plugin_people_size: 28
           plugin_people_types: followers, following
           plugin_repositories: yes
-          plugin_repositories_affiliations: owner
+          plugin_repositories_affiliations: ''
           plugin_repositories_batch: 100
