@@ -24,7 +24,7 @@
 
 <br />
 
-## I am Dr H
+## I am Josemaria Nabangi
 
 - Developer at [Jack of Clubs](https://www.jackofclubs.co.ke/)
 - Loves Music while in the zone and passion juice any day
